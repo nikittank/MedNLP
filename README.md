@@ -91,30 +91,3 @@ The project evaluates models using:
 ├── conditions.tsv                  # Condition descriptions
 └── README.md                       # Project documentation
 ```
-
-## Applications
-
-This system can be used for:
-- **Healthcare Analytics**: Understanding drug effectiveness patterns
-- **Medical Research**: Analyzing patient feedback trends
-- **Drug Recommendation**: Suggesting medications based on conditions
-- **Sentiment Analysis**: Evaluating patient satisfaction with treatments
-
-## Future Enhancements
-
-- Deep learning models (LSTM, BERT) for better text understanding
-- Real-time drug recommendation API
-- Integration with medical databases
-- Multi-language support for global healthcare applications
-
-## Contributing
-
-Feel free to contribute to this project by:
-- Improving model accuracy
-- Adding new features
-- Enhancing data preprocessing
-- Creating better visualizations
-
-## License
-
-This project is open source and available under the MIT License.
